@@ -1,3 +1,3 @@
-# objectdetection
+# ObjectDetection
 
 Just trying something new
