@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>462.png</filename>
+	<path>C:\Users\Adeeb\Downloads\data\train\462.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>37</ymin>
+			<xmax>192</xmax>
+			<ymax>107</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>left sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>45</ymin>
+			<xmax>291</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>

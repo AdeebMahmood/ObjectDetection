@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>322.png</filename>
+	<path>C:\Users\Adeeb\Downloads\data\train\322.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>14</ymin>
+			<xmax>205</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>right sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>20</ymin>
+			<xmax>264</xmax>
+			<ymax>68</ymax>
+		</bndbox>
+	</object>
+</annotation>
